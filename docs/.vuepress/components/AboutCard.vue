@@ -19,11 +19,11 @@
           <slot></slot>
         </div>
       </div>
-      <div class="interests">
-        <span>
-          {{data.interests}}
-        </span>
-      </div>
+<!--      <div class="interests">-->
+<!--        <span>-->
+<!--          {{data.interests}}-->
+<!--        </span>-->
+<!--      </div>-->
       <div class="socials">
         <div v-for="item in data.socials">
           <a :href="item.link" target="_blank">

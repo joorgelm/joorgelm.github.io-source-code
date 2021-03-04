@@ -26,7 +26,7 @@ email: melgarejo.colarte@gmail.com
 
 Apaixonado por computação, atualmente estou concluindo minha graduação, possuo experiência em desenvolvimento web (Back-end e Front-end), machine learning (NLP).
 
-Desenvolvimento de API's REST (Flask, Django, Laravel, Spring Boot), front-end (Vue.js com Vuex), banco de dados PostgreSQL, MySQL e Oracle, containers Docker, ferramentas Sklearn, H2O, Pandas, cloud Heroku, EC2.
+Desenvolvimento de API's REST (Flask, Django, Laravel, Spring Boot), front-end (Vue.js com Vuex), banco de dados PostgreSQL, MySQL e Oracle, Docker, ferramentas Sklearn, H2O, Pandas, cloud Heroku, EC2.
 
 ## Projetos
 
@@ -41,7 +41,7 @@ Desenvolvimento de API's REST (Flask, Django, Laravel, Spring Boot), front-end (
 
   **Tecnologias**
   - Docker
-  - Java
+  - Java 8+
   - Git
   - Spring / Spring Boot
   - VueJS

@@ -4,21 +4,22 @@ description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: 'Jorge Melgarejo'
 info: 'Desenvolvedor'
-interests: 'Ficção cientifica, motos, investimentos.'
 socials:
 - title: github
   link: https://github.com/joorgelm
 - title: linkedin
   link: https://www.linkedin.com/in/jlmelgarejo/
-- title: instagram
-  link: https://www.instagram.com/joorgelm/
+- title: medium
+  link: https://medium.com/@joorge.lm
+- title: stack-overflow
+  link: https://stackoverflow.com/users/10568513/jorge-lu%c3%ads-melgarejo
 - title: email
   link: 'mailto:melgarejo.colarte@gmail.com'
 actions:
 - text: Projetos
   link: /projects/
-- text: CV
-  link: /cv/cv.pdf
+- text: Currículo (CV)
+  link: https://docs.google.com/document/d/1QMhZx1_RBbOt_nZxnnzLnqAMsqKoYbw_XYFWry5RZ38/edit?usp=sharing
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
